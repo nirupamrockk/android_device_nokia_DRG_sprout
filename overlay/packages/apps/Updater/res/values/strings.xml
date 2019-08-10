@@ -19,6 +19,6 @@
           {type} - Build type
           {incr} - Incremental version
     -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/RaghuVarma331/6.1plus_roms/master/DRG_sprout/LineageOS/build.json</string>
-    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/RaghuVarma331/6.1plus_roms/master/DRG_sprout/LineageOS/changelog.txt</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/RaghuVarma331/Over-the-air/master/{device}/LineageOS/build.json</string>
+    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/RaghuVarma331/Over-the-air/master/{device}/LineageOS/changelog.txt</string>
 </resources>
